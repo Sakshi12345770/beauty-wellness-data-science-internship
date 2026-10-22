@@ -1,6 +1,6 @@
 # Beauty & Wellness - Data Science Project
 **Intern:** Sakshi Suresh Wankhade  
-**Internship:** Data Science with Python (Henry Harvin via Skill India - MSDE)  
+**Internship:** Data Science with Python  
 **Duration:** 1 Month | Remote
 
 ## Project Title
@@ -10,7 +10,7 @@ Predicting Customer Churn & Personalized Skincare Recommendation System for D2C 
 - **Problem:** High churn (60%) and low personalization in beauty e-commerce.
 - **Solution Approach:** Churn prediction using RFM + ML models (XGBoost), Recommendation engine (Collaborative + Content-based), Sentiment Analysis on reviews.
 - **Business Impact:** Increase retention by 15-20% and CLV.
-- **Full Report:** See `Week1_Beauty_Wellness_Report.docx` in this repo.
+Full Report: See Week1_Report.md and churn_prediction_model.py in this repo.
 
 ## Tools & Libraries
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, Surprise
