@@ -20,5 +20,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, Surprise
 - Amazon Beauty Ratings
 - Customer Personality Analysis Dataset
 
-## Status
-Week 1 Completed | Week 2 In Progress
+## Week 2 Deliverable: Data Sourcing Strategy
+- Identified 6 potential sources, selected 2 primary (Sephora + Customer Personality)
+- Created Master Dataset: customers.csv (1000 rows), reviews.csv, products.csv
+- EDA Plan: Countplot, Boxplot, Correlation Heatmap, WordCloud, RFM Clustering
+- Hypothesis Testing Plan for H1 & H2
+- Full Strategy: See Week2_Data_Strategy.md
+- Code: See Week2_Data/week2_data_sourcing.py
